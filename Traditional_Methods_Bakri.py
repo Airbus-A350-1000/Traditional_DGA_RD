@@ -170,6 +170,7 @@ Duval Triangle Reference Plot: [1] Selim Koroglu, “Selim Koroglu * -(OHFWULFDO
 
 Rogers Ratio Threshold Values and Classification: [2] N. A. Muhamad, B. T. Phung, T. R. Blackburn and K. X. Lai, "Comparative Study and Analysis of DGA Methods for Transformer Mineral Oil," 2007 IEEE Lausanne Power Tech, Lausanne, Switzerland, 2007, pp. 45-50, doi: 10.1109/PCT.2007.4538290. keywords: {Dissolved gas analysis;Oil insulation;Minerals;Petroleum;Gases;Power transformer insulation;Circuit faults;Hydrogen;Testing;Electrical fault detection},
 
+Code was developed with assitance from Github Copilot.
 For any questions or issues, please contact me at m.mohamed1@qatar.tamu.edu
         """
         
